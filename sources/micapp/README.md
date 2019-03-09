@@ -1,6 +1,6 @@
 # MICAPP
 
-Fantastyczna aplikacja Michala v2
+Fantastyczna aplikacja Michala v3
 
 ## Getting Started
 

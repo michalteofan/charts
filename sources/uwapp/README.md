@@ -1,6 +1,6 @@
 # UWAPP
 
-Fantastyczna aplikacja UW
+Fantastyczna aplikacja UW v2
 
 ## Getting Started
 

@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: demo.icp:8500/michal1/micapp
+  repository: demo.icp:8500/michal1/uwapp
   tag: v1
   pullPolicy: Always
 
@@ -20,11 +20,3 @@ ingress:
   hosts:
     - chart-example.local
   tls: []
-
-resources: {}
-
-nodeSelector: {}
-
-tolerations: []
-
-affinity: {}

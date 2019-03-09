@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: demo.icp:8500/michal
-  tag: micapp.v1
+  tag: micapp:v1
   pullPolicy: IfNotPresent
 
 service:

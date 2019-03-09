@@ -13,4 +13,4 @@ name: micapp
 sources:
 - https://github.com/michalteofan/charts/tree/master/sources
 tillerVersion: '>=2.7.2'
-version: "0.2"
+version: "0.1"

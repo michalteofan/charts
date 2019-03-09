@@ -1,10 +1,10 @@
 apiVersion: v1
 entries:
-  michal-micapp:
+  micapp:
   - apiVersion: v1
-    created: 2019-03-09T08:54:36.140172859+01:00
+    created: 2019-03-09T09:46:43.106504257+01:00
     description: Fantastyczna aplikacja Michala
-    digest: d83caea66cd929bff5e394808142715245e9a169d41ee3b159d5cda9a4480911
+    digest: a14b0ad6886c25a4babd65baa72f981594b17302e9ed8d0ceba44ffbf8a3aa64
     engine: gotpl
     home: https://www.ibm.com
     icon: http://www.common.org.pl/wp-content/uploads/2016/09/stryga_michal.png
@@ -14,11 +14,11 @@ entries:
     - OpenSource
     maintainers:
     - name: Michal
-    name: michal-micapp
+    name: micapp
     sources:
-    - https://github.com/michalteofan/micapp
+    - https://github.com/michalteofan/charts/tree/master/sources
     tillerVersion: '>=2.7.2'
     urls:
-    - https://raw.githubusercontent.com/michalteofan/charts/master/repo/michal-micapp-0.1.tgz
+    - https://raw.githubusercontent.com/michalteofan/charts/master/repo/micapp-0.1.tgz
     version: "0.1"
-generated: 2019-03-09T08:54:36.139757081+01:00
+generated: 2019-03-09T09:46:43.106091228+01:00

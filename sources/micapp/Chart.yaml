@@ -1,4 +1,4 @@
-name: michal-micapp
+name: micapp
 version: 0.1
 description: Fantastyczna aplikacja Michala
 home: https://www.ibm.com
@@ -8,7 +8,7 @@ keywords:
   - ppc64le
   - OpenSource
 sources:
-  - https://github.com/michalteofan/micapp
+  - https://github.com/michalteofan/charts/tree/master/sources
 maintainers:
 - name: Michal
 engine: gotpl

@@ -2,47 +2,7 @@ apiVersion: v1
 entries:
   micapp:
   - apiVersion: v1
-    created: 2019-03-09T14:28:35.899742069+01:00
-    description: Fantastyczna aplikacja Michala
-    digest: a0bc2bad556965eb23b4c40176605b6ee60cc72e2a0de05e60b2dd8f60f22dd5
-    engine: gotpl
-    home: https://www.ibm.com
-    icon: http://www.common.org.pl/wp-content/uploads/2016/09/stryga_michal.png
-    keywords:
-    - fantastic
-    - ppc64le
-    - OpenSource
-    maintainers:
-    - name: Michal
-    name: micapp
-    sources:
-    - https://github.com/michalteofan/charts/tree/master/sources
-    tillerVersion: '>=2.7.2'
-    urls:
-    - https://raw.githubusercontent.com/michalteofan/charts/master/repo/micapp-0.3.tgz
-    version: "0.3"
-  - apiVersion: v1
-    created: 2019-03-09T14:28:35.899517032+01:00
-    description: Fantastyczna aplikacja Michala
-    digest: 7fe6bd6164f28b4e501b3fa48cabfbda2ab93e8dfdb73620364a35dc2971c339
-    engine: gotpl
-    home: https://www.ibm.com
-    icon: http://www.common.org.pl/wp-content/uploads/2016/09/stryga_michal.png
-    keywords:
-    - fantastic
-    - ppc64le
-    - OpenSource
-    maintainers:
-    - name: Michal
-    name: micapp
-    sources:
-    - https://github.com/michalteofan/charts/tree/master/sources
-    tillerVersion: '>=2.7.2'
-    urls:
-    - https://raw.githubusercontent.com/michalteofan/charts/master/repo/micapp-0.2.tgz
-    version: "0.2"
-  - apiVersion: v1
-    created: 2019-03-09T14:28:35.899294081+01:00
+    created: 2019-03-09T16:06:54.335310892+01:00
     description: Fantastyczna aplikacja Michala
     digest: 0b5604aed76df8cbb8918d8e113890f59cbee2181d29c1537b686b040557bcc4
     engine: gotpl
@@ -61,4 +21,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/michalteofan/charts/master/repo/micapp-0.1.tgz
     version: "0.1"
-generated: 2019-03-09T14:28:35.898941319+01:00
+generated: 2019-03-09T16:06:54.334959735+01:00

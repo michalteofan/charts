@@ -5,27 +5,6 @@
 replicaCount: 1
 
 image:
-  repository: demo.icp:8500/michal
+  repository: demo.icp:8500/michal1
   tag: micapp:v1
   pullPolicy: IfNotPresent
-
-service:
-  enabled: true
-  name: ""
-  port: 80
-  targetPort: 80
-  type: NodePort
-  annotations: {}
-
-ingress:
-  enabled: false
-  annotations: {}
-    # kubernetes.io/ingress.class: nginx
-    # kubernetes.io/tls-acme: "true"
-  path: /
-  hosts:
-    - chart-example.local
-  tls: []
-  #  - secretName: chart-example-tls
-  #    hosts:
-  #      - chart-example.local

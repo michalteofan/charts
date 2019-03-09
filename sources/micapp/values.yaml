@@ -5,6 +5,6 @@
 replicaCount: 1
 
 image:
-  repository: demo.icp:8500/michal1
-  tag: micapp:v1
+  repository: demo.icp:8500/michal1/micapp
+  tag: v2
   pullPolicy: IfNotPresent

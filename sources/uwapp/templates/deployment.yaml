@@ -1,22 +1,22 @@
 apiVersion: apps/v1beta2
 kind: Deployment
 metadata:
-  name: {{ template "micapp.fullname" . }}
+  name: {{ template "uwapp.fullname" . }}
   labels:
-    app: {{ template "micapp.name" . }}
-    chart: {{ template "micapp.chart" . }}
+    app: {{ template "uwapp.name" . }}
+    chart: {{ template "uwapp.chart" . }}
     release: {{ .Release.Name }}
     heritage: {{ .Release.Service }}
 spec:
   replicas: {{ .Values.replicaCount }}
   selector:
     matchLabels:
-      app: {{ template "micapp.name" . }}
+      app: {{ template "uwapp.name" . }}
       release: {{ .Release.Name }}
   template:
     metadata:
       labels:
-        app: {{ template "micapp.name" . }}
+        app: {{ template "uwapp.name" . }}
         release: {{ .Release.Name }}
     spec:
       containers:

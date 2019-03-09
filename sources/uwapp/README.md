@@ -1,6 +1,6 @@
-# MICAPP
+# UWAPP
 
-Fantastyczna aplikacja Michala v2
+Fantastyczna aplikacja UW
 
 ## Getting Started
 

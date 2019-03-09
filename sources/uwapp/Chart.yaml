@@ -1,16 +1,15 @@
 apiVersion: v1
-description: Fantastyczna aplikacja Michala
-engine: gotpl
+description: Fantastyczna aplikacja UW
 home: https://www.ibm.com
-icon: http://www.common.org.pl/wp-content/uploads/2016/09/stryga_michal.png
+icon: https://www.uw.edu.pl/wp-content/uploads/2017/07/logo-2-11.png
 keywords:
 - fantastic
 - ppc64le
 - OpenSource
 maintainers:
 - name: Michal
-name: polapp
+name: uwapp
 sources:
 - https://github.com/michalteofan/charts/tree/master/sources
 tillerVersion: '>=2.7.2'
-version: "0.1"
+version: 0.1.0

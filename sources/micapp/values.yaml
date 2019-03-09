@@ -6,5 +6,5 @@ replicaCount: 1
 
 image:
   repository: demo.icp:8500/michal1/micapp
-  tag: v2
-  pullPolicy: IfNotPresent
+  tag: v3
+  pullPolicy: Always

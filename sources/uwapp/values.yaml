@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: demo.icp:8500/michal1/uwapp
-  tag: v1
+  tag: v3
   pullPolicy: Always
 
 service:

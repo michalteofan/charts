@@ -1,10 +1,10 @@
 apiVersion: v1
 entries:
-  micapp:
+  michapp:
   - apiVersion: v1
-    created: 2019-03-11T15:36:46.385991109+01:00
+    created: 2019-03-12T00:22:57.249977452+01:00
     description: Fantastyczna aplikacja Michala
-    digest: 219e2e91b5c5ec7a4c7570a176122456dd1d8734fc9600bf2de6abc7fc03f659
+    digest: 23bef0c81517b97406e1d87d7f4ddc2b33d78d5c4bcd064e67c281609acf5f8e
     home: https://www.ibm.com
     icon: http://www.common.org.pl/wp-content/uploads/2016/09/stryga_michal.png
     keywords:
@@ -13,35 +13,16 @@ entries:
     - OpenSource
     maintainers:
     - name: Michal
-    name: micapp
+    name: michapp
     sources:
     - https://github.com/michalteofan/charts/tree/master/sources
     tillerVersion: '>=2.7.2'
     urls:
-    - https://raw.githubusercontent.com/michalteofan/charts/master/repo/micapp-0.2.0.tgz
-    version: 0.2.0
-  - apiVersion: v1
-    created: 2019-03-11T15:36:46.385760188+01:00
-    description: Fantastyczna aplikacja Michala
-    digest: 98b7c2b4c89257adfcc37fd300f2b64142488a1dfbe6227c974bee0e0c4eff9f
-    home: https://www.ibm.com
-    icon: http://www.common.org.pl/wp-content/uploads/2016/09/stryga_michal.png
-    keywords:
-    - fantastic
-    - ppc64le
-    - OpenSource
-    maintainers:
-    - name: Michal
-    name: micapp
-    sources:
-    - https://github.com/michalteofan/charts/tree/master/sources
-    tillerVersion: '>=2.7.2'
-    urls:
-    - https://raw.githubusercontent.com/michalteofan/charts/master/repo/micapp-0.1.0.tgz
+    - https://raw.githubusercontent.com/michalteofan/charts/master/repo/michapp-0.1.0.tgz
     version: 0.1.0
   uwapp:
   - apiVersion: v1
-    created: 2019-03-11T15:36:46.387116231+01:00
+    created: 2019-03-12T00:22:57.251706524+01:00
     description: Fantastyczna aplikacja UW
     digest: 214529913e9145f52cc3e5adcd045767ee5ffa3c3df6a3b810a1f5d2c1a62ae8
     home: https://www.ibm.com
@@ -60,7 +41,7 @@ entries:
     - https://raw.githubusercontent.com/michalteofan/charts/master/repo/uwapp-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
-    created: 2019-03-11T15:36:46.386842357+01:00
+    created: 2019-03-12T00:22:57.251289351+01:00
     description: Fantastyczna aplikacja UW
     digest: d89e99bd7a0ea9d0c689c74c10c36b9ff2eac27b45ee59288ecf6c9b6c0eb8c8
     home: https://www.ibm.com
@@ -79,7 +60,7 @@ entries:
     - https://raw.githubusercontent.com/michalteofan/charts/master/repo/uwapp-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
-    created: 2019-03-11T15:36:46.386562455+01:00
+    created: 2019-03-12T00:22:57.250862333+01:00
     description: Fantastyczna aplikacja UW
     digest: c1ac30d47470cc0a57a6b057d2c377e167a7544f5d05ff35db03cf1521cd512d
     home: https://www.ibm.com
@@ -98,7 +79,7 @@ entries:
     - https://raw.githubusercontent.com/michalteofan/charts/master/repo/uwapp-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: 2019-03-11T15:36:46.386279302+01:00
+    created: 2019-03-12T00:22:57.250452831+01:00
     description: Fantastyczna aplikacja UW
     digest: 5cd7457009920896acedf4fdb148456f96116be7d7286a6153dffc8ccc5d48fc
     home: https://www.ibm.com
@@ -116,4 +97,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/michalteofan/charts/master/repo/uwapp-0.1.0.tgz
     version: 0.1.0
-generated: 2019-03-11T15:36:46.385359076+01:00
+generated: 2019-03-12T00:22:57.249613019+01:00

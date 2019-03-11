@@ -1,0 +1,15 @@
+apiVersion: v1
+description: Fantastyczna aplikacja Michala
+home: https://www.ibm.com
+icon: http://www.common.org.pl/wp-content/uploads/2016/09/stryga_michal.png
+keywords:
+- fantastic
+- ppc64le
+- OpenSource
+maintainers:
+- name: Michal
+name: michapp
+sources:
+- https://github.com/michalteofan/charts/tree/master/sources
+tillerVersion: '>=2.7.2'
+version: 0.1.0

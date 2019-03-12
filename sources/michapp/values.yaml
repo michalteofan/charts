@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: demo.icp:8500/michal1/michapp
-  tag: v2
+  tag: v3
   pullPolicy: Always
 
 service:

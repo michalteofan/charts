@@ -8,7 +8,7 @@ keywords:
 - OpenSource
 maintainers:
 - name: Michal
-name: michapp
+name: michapp-ibmcloud
 sources:
 - https://github.com/michalteofan/charts/tree/master/sources
 tillerVersion: '>=2.7.2'

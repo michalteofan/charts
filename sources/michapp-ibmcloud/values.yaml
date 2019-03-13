@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: demo.icp:8500/michal1/michapp
+  repository: us.icr.io/michal1/michapp:v5
   tag: v5
   pullPolicy: Always
 

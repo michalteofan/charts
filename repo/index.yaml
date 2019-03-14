@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   michapp:
   - apiVersion: v1
-    created: 2019-03-14T08:34:05.401707936+01:00
+    created: 2019-03-14T09:36:37.021347318+01:00
     description: Fantastyczna aplikacja Michala
     digest: 6c2624750c709e064f29598491c332b7dcbac5dccde4d86d198f20f70ca2cbb4
     home: https://www.ibm.com
@@ -21,7 +21,7 @@ entries:
     - https://raw.githubusercontent.com/michalteofan/charts/master/repo/michapp-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v1
-    created: 2019-03-14T08:34:05.401233501+01:00
+    created: 2019-03-14T09:36:37.021080294+01:00
     description: Fantastyczna aplikacja Michala
     digest: c972d949a1a342d28cdc4286a2973b1ddfad2f6ce7c590491556015a93334d76
     home: https://www.ibm.com
@@ -40,7 +40,7 @@ entries:
     - https://raw.githubusercontent.com/michalteofan/charts/master/repo/michapp-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
-    created: 2019-03-14T08:34:05.40070861+01:00
+    created: 2019-03-14T09:36:37.020796766+01:00
     description: Fantastyczna aplikacja Michala
     digest: eab892bca0879413151c51e5b87e29ba75f2bc358b9605e983560a7b5763691a
     home: https://www.ibm.com
@@ -59,7 +59,7 @@ entries:
     - https://raw.githubusercontent.com/michalteofan/charts/master/repo/michapp-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
-    created: 2019-03-14T08:34:05.40027702+01:00
+    created: 2019-03-14T09:36:37.020555847+01:00
     description: Fantastyczna aplikacja Michala
     digest: de9656f46d580142ca9edeffb1e8430ebd92cd52588724b67280f2e2337e6017
     home: https://www.ibm.com
@@ -78,7 +78,7 @@ entries:
     - https://raw.githubusercontent.com/michalteofan/charts/master/repo/michapp-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: 2019-03-14T08:34:05.40003317+01:00
+    created: 2019-03-14T09:36:37.02030374+01:00
     description: Fantastyczna aplikacja Michala
     digest: 23bef0c81517b97406e1d87d7f4ddc2b33d78d5c4bcd064e67c281609acf5f8e
     home: https://www.ibm.com
@@ -98,7 +98,7 @@ entries:
     version: 0.1.0
   uwapp:
   - apiVersion: v1
-    created: 2019-03-14T08:34:05.403155108+01:00
+    created: 2019-03-14T09:36:37.022377285+01:00
     description: Fantastyczna aplikacja UW
     digest: 214529913e9145f52cc3e5adcd045767ee5ffa3c3df6a3b810a1f5d2c1a62ae8
     home: https://www.ibm.com
@@ -117,7 +117,7 @@ entries:
     - https://raw.githubusercontent.com/michalteofan/charts/master/repo/uwapp-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
-    created: 2019-03-14T08:34:05.402784503+01:00
+    created: 2019-03-14T09:36:37.022092324+01:00
     description: Fantastyczna aplikacja UW
     digest: d89e99bd7a0ea9d0c689c74c10c36b9ff2eac27b45ee59288ecf6c9b6c0eb8c8
     home: https://www.ibm.com
@@ -136,7 +136,7 @@ entries:
     - https://raw.githubusercontent.com/michalteofan/charts/master/repo/uwapp-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
-    created: 2019-03-14T08:34:05.40242569+01:00
+    created: 2019-03-14T09:36:37.021834279+01:00
     description: Fantastyczna aplikacja UW
     digest: c1ac30d47470cc0a57a6b057d2c377e167a7544f5d05ff35db03cf1521cd512d
     home: https://www.ibm.com
@@ -155,7 +155,7 @@ entries:
     - https://raw.githubusercontent.com/michalteofan/charts/master/repo/uwapp-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: 2019-03-14T08:34:05.402044368+01:00
+    created: 2019-03-14T09:36:37.021586052+01:00
     description: Fantastyczna aplikacja UW
     digest: 5cd7457009920896acedf4fdb148456f96116be7d7286a6153dffc8ccc5d48fc
     home: https://www.ibm.com
@@ -173,4 +173,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/michalteofan/charts/master/repo/uwapp-0.1.0.tgz
     version: 0.1.0
-generated: 2019-03-14T08:34:05.399697022+01:00
+generated: 2019-03-14T09:36:37.019899698+01:00
